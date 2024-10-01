@@ -1,0 +1,2 @@
+# cmptest
+cmp testpage
