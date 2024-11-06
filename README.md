@@ -1,2 +1,2 @@
-# [cmptest](https://marriccc.github.io/cmptest/)
-cmp testpage
+# [purmodel](https://marriccc.github.io/cmptest/)
+PUR Model testing
