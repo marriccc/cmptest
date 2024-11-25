@@ -1,2 +1,2 @@
-# [purmodel](https://marriccc.github.io/cmptest/)
+# [purmodel](https://marriccc.github.io/purmodel/)
 PUR Model testing
